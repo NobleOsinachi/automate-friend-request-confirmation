@@ -1,0 +1,1 @@
+# automate-friend-request-confirmation
