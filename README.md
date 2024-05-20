@@ -1,4 +1,3 @@
-
 # Facebook Friend Request Auto Confirm Script
 
 This script automates the process of confirming friend requests on Facebook, helping users to quickly confirm multiple friend requests without manual intervention.
@@ -35,4 +34,3 @@ This script automates the process of confirming friend requests on Facebook, hel
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
